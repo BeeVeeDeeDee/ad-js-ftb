@@ -30,3 +30,5 @@ npm run dev
 
 Werkt het niet, krijg je een foutmelding?
 controleer even of je vanuit de juiste folder het command draait.
+
+
